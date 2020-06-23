@@ -1,6 +1,6 @@
 # Replication materials
 
-Anders, Therese, Christopher Fariss, and Jonathan Markowitz (Forthcoming): Bread before guns or butter: Introducing Surplus Domestic Product (SDP). In *International Studies Quarterly.*
+Anders, Therese, Christopher Fariss, and Jonathan Markowitz (2020): Bread before guns or butter: Introducing Surplus Domestic Product (SDP). In *International Studies Quarterly 64*(2), pp. 392-405.
 
 Notes for users: 
 
