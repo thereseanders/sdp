@@ -1,3 +1,6 @@
+| Find a condensed version of the GDP, population, and SDP estimates [here](https://github.com/thereseanders/gdppc_pop_gdp). |
+| --- |
+
 # Replication materials
 
 Anders, Therese, Christopher Fariss, and Jonathan Markowitz (2020): Bread before guns or butter: Introducing Surplus Domestic Product (SDP). In *International Studies Quarterly 64*(2), pp. 392-405.
