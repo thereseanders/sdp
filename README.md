@@ -1,5 +1,5 @@
-| Find a condensed version of the GDP, population, and SDP estimates [here](https://github.com/thereseanders/gdppc_pop_gdp). |
-| --- |
+|:warning: | Find a condensed version of the GDP, population, and SDP estimates [here](https://github.com/thereseanders/gdppc_pop_gdp). |
+| --- | --- |
 
 # Replication materials
 
